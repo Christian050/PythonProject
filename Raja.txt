@@ -1,0 +1,529 @@
+BLADEMASTER
+
+CORE
+
+Fire-2
+Water-9
+Wind-0
+Earth-5
+
+ALLY
+
+Wedding Erii
+Guardian Luminous
+Trip Erii
+New Year Erii
+Wedding Nono
+Band Erii
+Forest Erii
+
+EQUIPMENT
+
+Fire Atk
+Crit Lv.
+Str
+Dex
+Ins
+P.Atk
+AP Lv.
+MS
+CDR
+M.Def(Opt)
+Earth Def(Opt)
+Wind Def(Opt)
+Crit Res Lv.
+P.Def
+
+SEVEN SINS
+
+Wrath(MW)
+Rage, Greed, Envy
+Gluttony, Filth,Pride
+Envy, Rage, Gluttony
+
+DRAGONBLOOD
+
+Leviathan
+Fenrir
+Norton
+Izanami
+Lord of Sky and Wind
+
+
+
+
+GUNSLINGER
+
+CORE
+
+Fire-4
+Water-7
+Wind-5
+Earth-0
+
+ALLY
+
+Captain Luminous
+Guardian Luminous
+Wedding Erii
+New Year Chisei Gen
+Captain Caesar
+Brand Su Xiaoyan
+Memory Finger
+
+EQUIPMENT
+
+Wind Atk
+Str
+Crit Lv.
+Con
+P.Atk
+AP Lv.
+Crit Res Lv.
+M.Def(Opt)
+Dex
+MS(2)
+Wind Def
+Water Def(Opt)
+CDR
+
+SEVEN SINS
+
+Filth(MW)
+Greed, Pride, Sloth
+Greed, Sloth, Pride
+Sloth, Pride, Greed
+
+DRAGONBLOOD
+
+Fenrir
+Lord of Sky and Wind
+Wingless Owl
+Izanami
+Leviathan
+
+
+
+
+ASSASSIN
+
+CORE
+
+Fire-9
+Water-5
+Wind-2
+Earth-0
+
+ALLY
+
+Guardian Luminous
+Captain Luminous
+New Year Luminous
+Guardian Zero
+Erii Uesugi
+Chisei Gen
+Wedding Nono
+
+EQUIPMENT
+
+M.Atk
+Ins
+Earth Atk
+Con #
+Crit Lv.
+Int
+P.Def(Opt)
+AP Lv.
+Dex
+M.Def
+Wind Def(Opt)
+MS(2)
+HP(2)
+
+SEVEN SINS
+
+Pride(MW)
+Sloth, Gluttony, Envy
+Greed, Pride, Filth
+Envy, Pride, Rage
+
+DRAGONBLOOD
+
+Fenrir
+Lord of Sky and Wind
+Izanami
+Norton
+Leivathan
+
+
+
+
+
+SOUL DANCER
+
+CORE
+
+Fire-5
+Water-9
+Wind-2
+Earth-0
+
+ALLY
+
+Guardian Luminous
+Captain Luminous
+Forest Erii
+Guardian Erii
+Captain Erii
+Guardian Zero
+Trip Luminous
+
+EQUIPMENT
+
+Ins
+Water Atk
+M.Def
+M.Atk
+AP Lv.
+CDR
+Crit Lv.
+Int
+Dex(2)
+
+SEVEN SINS
+
+Greed(MW)
+Pride, Sloth, Filth
+Gluttony, Filth, Envy
+Filth, Sloth, Greed
+
+DRAGONBLOOD
+
+Lord of Sky and Wind
+Izanami
+Leviathan
+Fenrir
+Norton
+
+
+
+
+FIGHTER
+
+CORE
+
+Fire-7
+Water-5
+Wind-4
+Earth-0
+
+ALLY
+
+Guardian Luminous
+Wedding Erii
+Guardian Johann
+Guardian Zero
+Captain Luminous
+Erii Uesugi
+Guardian Shavee
+
+EQUIPMENT
+
+HP(1)
+P.Atk
+Str
+Dex(1)
+Fire Atk
+CDR
+MS
+AP Lv.
+Crit Res Lv.
+Con
+Crit Lv.
+Wind Def(Opt)
+Fire Def
+Ins
+M.Def(Opt)
+
+SEVEN SINS
+
+Gluttony(MW)
+Pride, Sloth, Envy
+Sloth, Pride, Greed
+Gluttony, Sloth, Filth
+
+DRAGONBLOOD
+
+Lord of Sky And Wind
+Fenrir
+Norton
+Leviathan
+Izanami
+
+
+
+
+REAPER
+
+CORE
+
+Fire-9
+Water-3
+Wind-4
+Earth-0
+
+ALLY
+
+Guardian Luminous
+Captain Luminous
+Love Johann
+New Year Luminous
+Love Nono
+Guardian Zero
+Band Su Xiaoyan
+
+EQUIPMENT
+
+AP Lv.
+Crit Res Lv.
+Crit Lv.
+M.Atk
+M.Def
+Earth Atk
+CDR
+Int(3)
+Dex(1)
+
+SEVEN SINS
+
+Filth(MW)
+Greed, Pride, Gluttony
+Gluttony, Greed, Pride
+Sloth, Greed, Pride
+
+DRAGONBLOOD
+
+Fenrir
+Lord of Sky and Wind
+Wingless Owl
+Norton
+Leviathan
+
+
+
+
+PUPPETEER
+
+CORE
+
+Fire-9
+Water-2
+Wind-5
+Earth-0
+
+ALLY
+
+Forest Caesar
+Captain Luminous
+Forest Erii
+Erii Uesugi
+Captian Caesar
+Guardian Zero
+Trip Zero
+
+EQUIPMENT
+
+Wind Atk
+M.Def
+Int
+AP Lv.
+M.Atk
+CDR
+Con
+Crit Lv.
+HP(1)
+MS
+Ins
+
+SEVEN SINS
+
+Filth
+Envy, Greed, Filth
+Envy, Pride, Sloth
+Filth, Greed, Pride
+
+DRAGONBLOOD
+
+Lord of Sky and Wind
+Leviathan
+Izanami
+Fenrir
+Norton
+
+
+
+
+PHANTOM SOUND
+
+CORE
+
+Fire-9
+Water-3
+Wind-4
+Earth-0
+
+ALLY
+
+Guardian Luminous
+Wedding Erii
+Trip Zero
+New Year Luminous
+Love Nono
+Guardian Zero
+Band SU Xiaoyan
+
+EQUIPMENT
+
+AP Lv.
+Crit Res Lv.
+Crit Lv.
+M.Atk
+M.Def
+Water Atk
+CDR
+Int(1)
+Dex
+
+SEVEN SINS
+
+Filth
+Greed, Pride, Gluttony
+Gluttony, Greed, Pride
+Sloth, Greed, Pride
+
+DRAGONBLOOD
+
+Fenrir
+Lord of Sky and Wind
+Wingless Owl
+Norton
+Leviathan
+
+
+
+
+SKATEBOARDER
+
+CORE
+
+Fire-9
+Water-2
+Wind-5
+Earth-0
+
+ALLY
+
+Trip Luminous
+Erii Uesugi
+Love Johann
+Guardian Johann Chu
+Christmas Erii
+Love Luminous
+Captain Erii
+
+EQUIPMENT
+
+AP Lv.
+P.Atk
+CDR
+MS
+Str
+Fire Atk
+Dex
+Crit Lv.
+Ins(1)
+Earth Def(Opt)
+
+SEVEN SINS
+
+Filth
+Greed, Pride, Filth
+Filth, Pride, Rage
+Filth, Rage, Gluttony
+
+DRAGONBLOOD
+
+Wingless Owl
+Leviathan
+Lord of Sky and Wind
+Fenrir
+Norton
+
+
+
+
+ILLUSIONIST
+
+CORE
+
+Fire-9
+Water-2
+Wind-5
+Earth-0
+
+ALLY
+
+Erii Uesugi
+Love Johann
+Love Luminous
+Guardian Johann Chu
+Forest Chime Gen
+Guardian Zero
+Trip Zero
+
+EQUIPMENT
+
+M.Atk
+M.Def
+Wind Atk
+Ins
+Crit Lv.
+CDR
+Int
+AP Lv.
+Dex(2)
+
+SEVEN SINS
+
+Filth(MW)
+Sloth, Envy, Filth
+Pride, Filth, Envy
+Sloth, Pride, Greed
+
+DRAGONBLOOD
+
+Lord of Sky and Wind
+Fenrir
+Leviathan
+Serpent Tail
+Norton
+
+
+
+
+
+
+
+
+
+
+
+
+
+S1 User Data Look => 2845346
+S1 Invitation Code => J9URJE29A
+
+S73 User Data Look => 2845351
+S73 Invitation Code=> YW8BRASV
+
+s73 user data look (edit) => 2856171
